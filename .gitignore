@@ -1,0 +1,4 @@
+/.idea/
+/kafka/tmp/
+/kafka/bin/
+/kafka/target/
