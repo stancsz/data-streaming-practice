@@ -5,3 +5,4 @@ https://www.coursera.org/learn/streaming-analytics-systems-gcp
 
 https://www.coursera.org/lecture/gcp-big-data-ml-fundamentals/message-oriented-architectures-with-cloud-pub-sub-gSSzv
 
+https://codelabs.developers.google.com/codelabs/cpb104-pubsub/#0
